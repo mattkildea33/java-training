@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: java-training
+
+  profiles:
+    default: h2
+
+  jpa:
+    hibernate:
+      ddl-auto: none
+
+  

@@ -1,2 +1,10 @@
 /Users/matthewkildea/github/java-training/src/main/java/com/example/java_training/JavaTrainingApplication.java
 /Users/matthewkildea/github/java-training/src/main/java/com/example/java_training/controller/HelloWorldController.java
+/Users/matthewkildea/github/java-training/src/main/java/com/example/java_training/controller/UserAccountController.java
+/Users/matthewkildea/github/java-training/src/main/java/com/example/java_training/entity/Task.java
+/Users/matthewkildea/github/java-training/src/main/java/com/example/java_training/entity/UserAccount.java
+/Users/matthewkildea/github/java-training/src/main/java/com/example/java_training/exception/GlobalExceptionHandler.java
+/Users/matthewkildea/github/java-training/src/main/java/com/example/java_training/exception/ResourceNotFoundException.java
+/Users/matthewkildea/github/java-training/src/main/java/com/example/java_training/repository/TaskRepository.java
+/Users/matthewkildea/github/java-training/src/main/java/com/example/java_training/repository/UserAccountRepository.java
+/Users/matthewkildea/github/java-training/src/main/java/com/example/java_training/service/UserAccountService.java
