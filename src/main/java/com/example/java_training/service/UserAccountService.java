@@ -6,7 +6,6 @@ import com.example.java_training.repository.UserAccountRepository;
 
 import java.util.List;
 
-import org.apache.catalina.User;
 import org.springframework.stereotype.Service;
 
 @Service
